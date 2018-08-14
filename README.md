@@ -1,2 +1,3 @@
 # first-sample-repository
-This is my first Sample Repo in GIT
+This is my first Sample Edited Repository in GIT
+first edit
